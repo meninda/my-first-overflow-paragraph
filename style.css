@@ -1,0 +1,23 @@
+div.scrollmenu {
+  background-color: #B3B3B3;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 30px 35px;
+  text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+  background-color: #777;
+}
+body{
+  background-image:url(http://www.ewallpapers.eu/sites/default/files/1351732314.jpg);
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: 4000px 4000px;
+}
